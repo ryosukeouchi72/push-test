@@ -1,2 +1,3 @@
 push test!
-
+git config --global core.autoCRLF false
+git config --global core.autoCRLF false
